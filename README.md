@@ -1,7 +1,7 @@
 # AI381 - MLOps Portfolio
 
 ## About Me
-My name is [ibrahim alzoubi], and I am an Artificial Intelligence student at Jordan University of Science and Technology (JUST).
+My name is ibrahim alzoubi, and I am an Artificial Intelligence student at Jordan University of Science and Technology (JUST).
 
 I am interested in AI and how it can be used to solve real-life problems. I enjoy learning new things about programming and technology.
 
